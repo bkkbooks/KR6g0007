@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6g0007_000-T.yaml, hash: 'sha256:80e5c1f7df181cc386f419990a31b3d5aea954a5a923a3c2fc3a38f679542b42'}
+  - {seq: 0, filename: KR6g0007_000-T.yaml, hash: 'sha256:57e3910f777c7fcbb29924ec269bd962d764fb146d3dbe4f7302120ea0703ed0'}
   - {seq: 1, filename: KR6g0007_001-T.yaml, hash: 'sha256:2f07abd49efa274fabc6dcbdc826ae4b50ed08e81f3e2179c6383d010eed0703'}
   - {seq: 2, filename: KR6g0007_002-T.yaml, hash: 'sha256:12f678a906ff391013143e8344c89149d8f9a3f2ce19a930c8df4da1b6798af7'}
   - {seq: 3, filename: KR6g0007_003-T.yaml, hash: 'sha256:106b64fcd6708df82600e38ffe2f46ec01afde2b07b611ffe4d4df2a5978da21'}
@@ -54,7 +54,7 @@ assets:
   - {seq: 32, filename: KR6g0007_032-T.yaml, hash: 'sha256:ac1c55a8cdc825635b5696e613c9cca9341c5dec21f8a2b913061981e83ca376'}
   - {seq: 33, filename: KR6g0007_033-T.yaml, hash: 'sha256:942a24b4d729fc64fb47f276684303af37538d55ac0e08889a9bad81db87a327'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0007_000-T.markers.yaml, hash: 'sha256:aed9f88a7773dd9777f2d8a9deaa264a6fb5cb00a87527c6e2230d4ca5187e1e'}
+  - {seq: 0, role: markers, filename: assets/KR6g0007_000-T.markers.yaml, hash: 'sha256:671f56bd8e184d45aeb431595faf548a60f34a2a38a9174e7e0704e1eff9a09c'}
   - {seq: 1, role: markers, filename: assets/KR6g0007_001-T.markers.yaml, hash: 'sha256:583261250935a5470b3d7e6b7a32a37c054e594747c99435c9ba70b865bef912'}
   - {seq: 2, role: markers, filename: assets/KR6g0007_002-T.markers.yaml, hash: 'sha256:d0bee99373f8b82ec27c2818cad4ae4481f6e7be224b2fb7d33fdd65ff728a4e'}
   - {seq: 3, role: markers, filename: assets/KR6g0007_003-T.markers.yaml, hash: 'sha256:5cc8cd756b881dd8db39e5543fa7ca9eb85fc19dfce31589ccae7bc7d77cedfb'}
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0007_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 科南本涅槃經序
@@ -779,4 +779,4 @@ table_of_contents:
   label: 大般涅槃經疏卷第三十三
   type: juan
   level: 1
-hash: sha256:c54a58d0c6605437b8e2fe5596c3338ed7b0a07da50c7461bf5f5a8c554c2d5e
+hash: sha256:8f2bb863ea6123248616ae20c79677bd633aaff190d0328a4d9474771a09e6e1

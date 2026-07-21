@@ -21,7 +21,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6g0007_000.yaml, hash: 'sha256:ae603e3e98688c84b05f28b867c0a2a01b4ff3d4fe61a4adb779c98ecd776dca'}
+  - {seq: 0, filename: KR6g0007_000.yaml, hash: 'sha256:5baf93b850a4d31c387820270ce79d2d62fd12133ad49f7a191c156aa0e48c8b'}
   - {seq: 1, filename: KR6g0007_001.yaml, hash: 'sha256:f97e69e179960dd2f3c55c774336650c43ce62aac55040eb352fd0f7596eb794'}
   - {seq: 2, filename: KR6g0007_002.yaml, hash: 'sha256:5bc43a74c2eefdc2b7a26eaf5f2c3fafa7d139a024af8300bfcc000aef86996f'}
   - {seq: 3, filename: KR6g0007_003.yaml, hash: 'sha256:0a739a262d9a120d6b8324816728cf721eb5b3f99116d162519ac753e8819f75'}
@@ -56,7 +56,7 @@ assets:
   - {seq: 32, filename: KR6g0007_032.yaml, hash: 'sha256:2773e7a5f70d4a0dbb5cbdefff56ab9138dde448d8f2fb7ac48fc10bf575186f'}
   - {seq: 33, filename: KR6g0007_033.yaml, hash: 'sha256:41ac3165f9e0f16caa4235d60644d3411d40f1579f256de86a8b1b429e65150c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6g0007_000.markers.yaml, hash: 'sha256:f8ac3af08f7b816f15fd606714f157b59843ad6f87dfdeaf95e5971f870a9254'}
+  - {seq: 0, role: markers, filename: assets/KR6g0007_000.markers.yaml, hash: 'sha256:e89d964bfb283279153903cd0cbdbf6f6c083c1b2babf1dae8708e1fb9e3ba77'}
   - {seq: 1, role: markers, filename: assets/KR6g0007_001.markers.yaml, hash: 'sha256:e7f7ecdc1a9bd2c659297756683ab16ce8cd81b83616e7afae9791597d06d73a'}
   - {seq: 2, role: markers, filename: assets/KR6g0007_002.markers.yaml, hash: 'sha256:feb1a00da64037b4f96f4d1fdaa2a8d0669426bf01f6f75dbd1a3fef6b8e44ed'}
   - {seq: 3, role: markers, filename: assets/KR6g0007_003.markers.yaml, hash: 'sha256:33cf47a8a2f282ef0c17f4dea2b56ec05cbe57588df2ec2cbadb53cb4fec9bf3'}
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6g0007_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 科南本涅槃經序
@@ -781,7 +781,7 @@ table_of_contents:
   label: 大般涅槃經疏卷第三十三
   type: juan
   level: 1
-hash: sha256:a4d62a9ac5b5d7b103772632e4e9256a19d43ba24b065b5423a3ed1cb2e02836
+hash: sha256:d48bcaa02115ccf16d76a4e2cab941c67a8ab197c676ba62187deb0d5136b1a4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
